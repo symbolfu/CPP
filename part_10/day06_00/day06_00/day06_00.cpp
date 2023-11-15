@@ -1,6 +1,12 @@
 
 /*
 	类和动态内存分配
+		c++自动提供的成员函数：
+			默认构造函数
+			默认析构函数
+			复制构造函数: 原型：class_name(const class_name &)
+			赋值运算符： 原型：class_name & class_name::operator=(const class_name &)
+			地址运算符
 
 */
 
