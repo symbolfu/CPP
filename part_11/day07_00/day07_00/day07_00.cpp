@@ -14,7 +14,6 @@
 			何时及如何使用公有继承；
 
 
-
 */
 
 #include<iostream>
